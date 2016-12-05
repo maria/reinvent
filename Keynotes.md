@@ -1,4 +1,4 @@
-​# CEO Keynote
+# CEO Keynote
 
 Buzzword: `superpowers`
 

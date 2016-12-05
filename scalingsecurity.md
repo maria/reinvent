@@ -1,4 +1,4 @@
-​# Scaling security
+# Scaling security
 
 Presentation of AWS services, autoscaling, KMS
 

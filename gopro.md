@@ -1,5 +1,5 @@
-​# GoPro Analytics
-
+# GoPro Analytics
+  
   - Kafka, Spark, Tableau
   - Data analytics has to be visualized
   - Data sources: streams(hardware and software) and batches(third party data)

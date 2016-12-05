@@ -1,4 +1,4 @@
-​# Dns demystified - introductory level
+# Dns demystified - introductory level
 
 - Intro to dns in route53
 - Advantages of route53
