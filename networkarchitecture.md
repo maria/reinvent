@@ -1,6 +1,6 @@
 ​# Network architecture
 
-- vpn connection
+- VPN connection
 - Direct connect
 - Snowball
 
@@ -13,16 +13,16 @@
 
 ## Transit VPC
 
-a layer between your vpc and the internet. Is a vpc made out of firewalls or routing devices
+a layer between your vpc and the internet. Is a vpc made out of firewalls or routing devices.
   
 - Usecase - have a vpc transit to your datacenter and have a vpc per customer, 
-which connects to dc via vpc transit
-- Caveats: ecmp is broken, vpn throughput applied, nat needed outbound
+  which connects to dc via vpc transit
+- Caveats: ECMP is broken, vpn throughput applied, nat needed outbound
 
 If you need capacity to vpgw you need to add custom vpn instances in your network and use them
 
 ### Buzzwords
-Tsunami udp
-Elb sandwich
+  - Tsunami udp
+  - ELB sandwich
 
-* vpgw: virtual private gateway
+* vpgw: virtual private gateway *

@@ -1,6 +1,6 @@
 # Big data Mini Content
 
-1. Big data on aws 
+1. Big data on AWS 
    - S3 (+ Snowball)
    - Redshift 
    - Map Reduce 
@@ -8,16 +8,15 @@
    - Lambda
    - Kinesis: Streams, Firehose, Analyticss: launches inline processing using Lambda
  
- 2. Data lake on aws
+ 2. Data lake on AWS
    - Raw data on S3
-   - use kinesis for data ingestion
-   - use kms for security
+   - use Kinesis for data ingestion
+   - use KMS for security
    - use Redshift and EMR for processing
-   - api gw for user interface
-   - use dynamodb for catalog and search
-
+   - ApiGW for user interface
+   - use DynamoDB for catalog and search
   
   3. Presentation by JustGiving
   - data sources: kinesis streams
-  - data integration and storage: dynamodb, s3, lambda, sns
-  - Analytics and data science via tableau, python, spark, hadoop
+  - data integration and storage: DynamoDB, S3, Lambda, SNS
+  - Analytics and data science via Tableau, Python, Spark, Hadoop
